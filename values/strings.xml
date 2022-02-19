@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Plesijatrija</string>
+    <string name="osnove">OSNOVE</string>
+    <string name="samba">SAMBA</string>
+    <string name="rumba">RUMBA</string>
+    <string name="jive">JIVE</string>
+    <string name="opis">Latinoamerički plesovi mogu biti odlična zabava, ali ujedno i svojevrsna terapija. Najvažniji fragmenti su postavka tijela, ritam, tehnika i neizostavni dio kontakt s partnericom/partnerom te publikom.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1_name">Tehnika</string>
+    <string name="fragment2_name">Primjer</string>
+    <string name="text_samba1">Samba je brazilski ples pun ritma i veselja. Karakterizira ga jedna vrsta valovitog kretanja koja proizlazi iz gibanja zdjelice.</string>
+
+    <string name="text_rumba">Rumba je senzualni ples umjereno brzog ritma u kojemu do izražaja dolazi gibanje kukova, glavni razvoj doživjela u Kubi.</string>
+    <string name="text_jive">Jive je brz i poletan ples koji bi se mogao svrstati u grupu boogie/swing plesova. Karakteriziraju ga poskoci</string>
+</resources>
